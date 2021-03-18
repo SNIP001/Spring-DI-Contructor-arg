@@ -1,1 +1,1 @@
-# this is example of Spring di contructor arg
+# this is example of Spring dependency iinjection using contructor arg
