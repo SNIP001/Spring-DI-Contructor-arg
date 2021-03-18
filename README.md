@@ -1,1 +1,1 @@
-# this is a example of Spring dependency injection using contructor arg
+# this is a example of Spring dependency injection using contructor
